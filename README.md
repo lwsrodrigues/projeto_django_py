@@ -32,5 +32,4 @@ O projeto foi dividido de forma eficiente entre os membros do grupo:
 
 1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/usuario/repo.git 
+   https://github.com/lwsrodrigues/projetosenai.git
