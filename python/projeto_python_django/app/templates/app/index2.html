@@ -1,0 +1,33 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index 2</title>
+    <link rel="stylesheet" href = "{% static 'styles.css' %}">
+</head>
+<body>
+    <div class="navbar">
+        <a href="{% url 'index1' %}">Inicio</a>
+        <a href="{% url 'index2' %}">Galeria de Fotos</a>
+        <a href="{% url 'index3' %}">Informações</a>
+    </div>
+    <header>
+        <h1>Bem-vindo a Salvador</h1>
+        <h4>Descubra a história, cultura e as belas paisagens deste incrível destino!</h4>
+    </header>
+    
+     
+    <section class="gallery">
+        <h2>Galeria de Imagens</h2>
+        <div class="cards">
+            <div class="card"><img src="https://th.bing.com/th/id/R.22ca94860b5c66f2775537f74504bab0?rik=6Fu5dOQHSf%2b8PA&riu=http%3a%2f%2fwww.infoescola.com%2fwp-content%2fuploads%2f2008%2f03%2fcapoeira_574094863-1000x750.jpg&ehk=KtTcCtghXnQ0FdwuzGjQfXbDjFzBUIBvEvcSku9uUwM%3d&risl=&pid=ImgRaw&r=0" alt="Imagem 1"></div>
+            <div class="card"><img src="https://th.bing.com/th/id/OIP.c9youQvOyNU2mESKg72dVAHaE8?rs=1&pid=ImgDetMain" alt="Imagem 2"></div>
+            <div class="card"><img src="https://th.bing.com/th/id/R.5f85998b1dd8c99927468ae3788d716f?rik=1%2bMBEpa6H22OdA&pid=ImgRaw&r=0" alt="Imagem 3"></div>
+            <div class="card"><img src="https://th.bing.com/th/id/OIP.iDVuJh6JMgGfqKgJsEkWwgHaFk?rs=1&pid=ImgDetMain" alt="Imagem 4"></div>
+        </div>
+    </section>
+    
+</body>
+</html>

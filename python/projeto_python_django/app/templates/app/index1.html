@@ -1,0 +1,57 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href = "{% static 'styles.css' %}">
+    <title>Index 1</title>
+</head>
+<body>
+
+        <div class="navbar">
+            <a href="{% url 'index1' %}">Inicio</a>
+            <a href="{% url 'index2' %}">Galeria de Fotos</a>
+            <a href="{% url 'index3' %}">Informações</a>
+        </div>
+    
+
+  
+</body>
+</html>
+
+
+   
+    <header>
+        <h1>Bem-vindo a Salvador</h1>
+        <h4>Descubra a história, cultura e as belas paisagens deste incrível destino!</h4>
+    </header>
+    
+    <section class="attractions">
+        <h2>Principais Atrações</h2>
+        <div class="cards">
+            <div class="card">
+                <img src="https://lirp.cdn-website.com/e11124be/dms3rep/multi/opt/AdobeStock_267368352-1920w.jpeg" alt="Pelourinho">
+                <h3>Pelourinho</h3>
+                <p>Centro histórico de Salvador, repleto de cultura e arquitetura colonial.</p>
+            </div>
+            <div class="card">
+                <img src="https://cdn.culturagenial.com/imagens/visa-o-do-elevador-lacerda-cke.jpg" alt="Elevador Lacerda">
+                <h3>Elevador Lacerda</h3>
+                <p>Um dos cartões-postais da Bahia, ligando a cidade alta e baixa.</p>
+            </div>
+            <div class="card">
+                <img src="https://a.cdn-hotels.com/gdcs/production145/d539/4c03e24f-9b71-4cae-b95e-646351027327.jpg" alt="Praia do Forte">
+                <h3>Praia do Forte</h3>
+                <p>Paraíso natural com belas praias e o famoso Projeto Tamar.</p>
+            </div>
+            <div class="card">
+                <img src="https://bahianoar.com/wp-content/uploads/2020/11/bahianoar-farol-da-barra-852x450.jpg" alt="Praia do Forte">
+                <h3>Farol da Barra</h3>
+                <p>Ponto turistico com vista para Baía de Todos os Santos.</p>
+            </div>
+        </div>
+    </section>
+   
+</body>
+</html>
