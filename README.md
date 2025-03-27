@@ -22,22 +22,22 @@ A implementação do site foi realizada utilizando **Python e Django** como serv
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/usuario1](https://github.com/MarceloCanton">
-        <img src="https://github.com/usuario1.png" width="100px;" alt="Foto do usuário1"/>
+      <a href="https://github.com/MarceloCanton">
+        <img src="https://github.com/MarceloCanton.png" width="100px;" alt="Foto do Marcelo Canton"/>
         <br />
-        <sub><b>MarceloCanton</b></sub>
+        <sub><b>Marcelo Canton</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/usuario2](https://github.com/bernardobpaes">
-        <img src="https://github.com/usuario2.png" width="100px;" alt="Foto do usuário2"/>
+      <a href="https://github.com/bernardobpaes">
+        <img src="https://github.com/bernardobpaes.png" width="100px;" alt="Foto do Bernardo Paes"/>
         <br />
-        <sub><b>bernardobpaes</b></sub>
+        <sub><b>Bernardo Paes</b></sub>
       </a>
     </td>
-
   </tr>
 </table>
+
 
 ## 🛠 Tecnologias Utilizadas  
 
