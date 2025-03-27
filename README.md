@@ -1,35 +1,55 @@
-# Projeto Salvador, Bahia
+# 🌍 Site sobre a história e Cultura de Salvador - Bahia 
 
-## Descrição
+## 📌 Descrição  
 
-O grupo optou por Salvador, Bahia, como tema para a realização da atividade solicitada. Para a construção do site, realizamos diversas pesquisas online, com o intuito de levantar informações relevantes sobre a cidade e coletar imagens que ilustrassem as atrações e características principais de Salvador.
+Este projeto foi desenvolvido durante a imersão na faculdade **SENAI SC - Florianópolis**, como parte de um desafio em grupo para criar um site que apresentasse os pontos turísticos e a cultura de uma cidade. Nosso grupo escolheu **Salvador, Bahia**, devido à sua rica história, arquitetura colonial e forte influência cultural no Brasil.  
 
-A implementação do site foi realizada utilizando o VS Code, com Python e Django configurados como servidor para possibilitar a publicação online. A estrutura da página foi criada em HTML, com o auxílio de CSS para garantir uma personalização visual atrativa e funcional.
+Para a construção do site, realizamos pesquisas online para coletar informações relevantes e imagens que ilustrassem as principais atrações da cidade.  
 
-O site é composto por três abas principais:
+A implementação do site foi realizada utilizando **Python e Django** como servidor para publicação online, enquanto **HTML e CSS** foram utilizados para criar uma interface intuitiva e visualmente atrativa.  
 
-- *Aba 1*: Exibe as principais atrações turísticas de Salvador.
-- *Aba 2*: Apresenta uma galeria de fotos que destaca a beleza da cidade.
-- *Aba 3*: Fornece informações detalhadas sobre os pontos turísticos, a arquitetura local e um breve relato da história de Salvador, proporcionando um panorama completo sobre a cidade.
+### 🌟 Funcionalidades do Site  
+✅ **Atrações Turísticas**: Apresenta os principais pontos turísticos de Salvador.  
+📷 **Galeria de Fotos**: Exibe imagens que destacam a beleza da cidade.  
+📜 **Informações Culturais e Históricas**: Fornece detalhes sobre os pontos turísticos, arquitetura local e um breve relato da história de Salvador.  
 
-A navegação no site foi facilitada por meio de um menu fixo no topo da página, permitindo que os usuários acessem rapidamente as diferentes seções do site.
+⚡ A navegação é facilitada por um **menu fixo**, permitindo acesso rápido entre as seções.  
 
-## Divisão de Tarefas
+---
 
-O projeto foi dividido de forma eficiente entre os membros do grupo:
+## 👥 Colaboradores  
 
-- *Bernardo Paes*: Responsável pelo levantamento das informações.
-- *Lucas Willian, **Marcelo Canton* e *Eduardo Corrêa*: Responsáveis pela elaboração do HTML e do CSS, garantindo a construção da interface visual e a organização do conteúdo de forma intuitiva e agradável.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/usuario1](https://github.com/MarceloCanton">
+        <img src="https://github.com/usuario1.png" width="100px;" alt="Foto do usuário1"/>
+        <br />
+        <sub><b>MarceloCanton</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/usuario2](https://github.com/bernardobpaes">
+        <img src="https://github.com/usuario2.png" width="100px;" alt="Foto do usuário2"/>
+        <br />
+        <sub><b>bernardobpaes</b></sub>
+      </a>
+    </td>
 
-## Tecnologias Utilizadas
+  </tr>
+</table>
 
-- *Python*
-- *Django* (para o servidor)
-- *HTML*
-- *CSS*
+## 🛠 Tecnologias Utilizadas  
 
-## Como Rodar o Projeto
+🔹 **Python**  
+🔹 **Django** (servidor web)  
+🔹 **HTML**  
+🔹 **CSS**  
 
-1. Clone o repositório:
+---
 
-   https://github.com/lwsrodrigues/projetosenai.git
+## 🚀 Como Rodar o Projeto  
+
+1. **Clone o repositório**  
+   ```bash
+   git clone https://github.com/lwsrodrigues/projetosenai.git
