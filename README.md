@@ -35,6 +35,14 @@ A implementação do site foi realizada utilizando **Python e Django** como serv
         <sub><b>Bernardo Paes</b></sub>
       </a>
     </td>
+  <td align="center">
+      <a href="https://github.com/eduardo7551">
+        <img src="https://github.com/eduardo7551.png" width="100px;" alt="Foto do Marcelo Canton"/>
+        <br />
+        <sub><b>Eduardo Correa</b></sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 
